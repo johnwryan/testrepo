@@ -1,2 +1,2 @@
 # testrepo
-test repository for coursera course
+A test repository for coursera course
